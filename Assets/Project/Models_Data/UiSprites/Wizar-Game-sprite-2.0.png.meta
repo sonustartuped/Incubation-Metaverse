@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 5dc33eb0054680b48b8c7748eda434b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1441960473732449049
+    second: Wizar-Game-sprite-2.0_0
+  - first:
+      213: 4429651776169144289
+    second: Wizar-Game-sprite-2.0_1
+  - first:
+      213: -4378509642145793905
+    second: Wizar-Game-sprite-2.0_2
+  - first:
+      213: -1059025986256343483
+    second: Wizar-Game-sprite-2.0_3
+  - first:
+      213: 342423823752310876
+    second: Wizar-Game-sprite-2.0_4
+  - first:
+      213: 2780221266014635202
+    second: Wizar-Game-sprite-2.0_5
+  - first:
+      213: 8029047309370534423
+    second: Wizar-Game-sprite-2.0_6
+  - first:
+      213: 7979527967314302985
+    second: Wizar-Game-sprite-2.0_7
+  - first:
+      213: -3464473379492616700
+    second: Wizar-Game-sprite-2.0_8
+  - first:
+      213: -610868857337981082
+    second: Wizar-Game-sprite-2.0_9
+  - first:
+      213: 1448451944599564063
+    second: Wizar-Game-sprite-2.0_10
+  - first:
+      213: 6849788174788096933
+    second: Wizar-Game-sprite-2.0_11
+  - first:
+      213: -8968308412963393742
+    second: Wizar-Game-sprite-2.0_12
+  - first:
+      213: 6558070264420216297
+    second: Wizar-Game-sprite-2.0_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_0
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 3941
+        width: 431
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9130af8396fd20410800000000000000
+      internalID: 1441960473732449049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_1
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 4342
+        width: 952
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 77, y: 34, z: 80, w: 32}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef6d3532d8497d30800000000000000
+      internalID: 4429651776169144289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_2
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 4039
+        width: 1000
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88f646cda86c33c0800000000000000
+      internalID: -4378509642145793905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_3
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 4006
+        width: 140
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e6849f9759d41f0800000000000000
+      internalID: -1059025986256343483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_4
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 4038
+        width: 739
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50336947a880c400800000000000000
+      internalID: 342423823752310876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2707
+        width: 906
+        height: 895
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c40acdd284559620800000000000000
+      internalID: 2780221266014635202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_6
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2696
+        width: 930
+        height: 937
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a26d7fcf7ec6f60800000000000000
+      internalID: 8029047309370534423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_7
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 2695
+        width: 915
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908501fa86afcbe60800000000000000
+      internalID: 7979527967314302985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_8
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 2703
+        width: 910
+        height: 913
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406ab8121d7bbefc0800000000000000
+      internalID: -3464473379492616700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_9
+      rect:
+        serializedVersion: 2
+        x: 5082
+        y: 2866
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675502c202c587f0800000000000000
+      internalID: -610868857337981082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_10
+      rect:
+        serializedVersion: 2
+        x: 6351
+        y: 2672
+        width: 913
+        height: 913
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fa4109e5fe91410800000000000000
+      internalID: 1448451944599564063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1514
+        width: 4657
+        height: 860
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 270, y: 183, z: 286, w: 200}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a37ae0ad065f0f50800000000000000
+      internalID: 6849788174788096933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_12
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 1528
+        width: 913
+        height: 913
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6b29b30b2a8380800000000000000
+      internalID: -8968308412963393742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizar-Game-sprite-2.0_13
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 1528
+        width: 913
+        height: 913
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eda1dac822f20b50800000000000000
+      internalID: 6558070264420216297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cc25bc72a9f541246871b9b719a67c48
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wizar-Game-sprite-2.0_0: 1441960473732449049
+      Wizar-Game-sprite-2.0_1: 4429651776169144289
+      Wizar-Game-sprite-2.0_10: 1448451944599564063
+      Wizar-Game-sprite-2.0_11: 6849788174788096933
+      Wizar-Game-sprite-2.0_12: -8968308412963393742
+      Wizar-Game-sprite-2.0_13: 6558070264420216297
+      Wizar-Game-sprite-2.0_2: -4378509642145793905
+      Wizar-Game-sprite-2.0_3: -1059025986256343483
+      Wizar-Game-sprite-2.0_4: 342423823752310876
+      Wizar-Game-sprite-2.0_5: 2780221266014635202
+      Wizar-Game-sprite-2.0_6: 8029047309370534423
+      Wizar-Game-sprite-2.0_7: 7979527967314302985
+      Wizar-Game-sprite-2.0_8: -3464473379492616700
+      Wizar-Game-sprite-2.0_9: -610868857337981082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
