@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "com.atteneder.gltfast": "4.7.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.atteneder"
+      ]
+    }
+  ]
+}

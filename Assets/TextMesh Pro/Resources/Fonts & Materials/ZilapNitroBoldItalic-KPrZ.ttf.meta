@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 061cdbebf74652241af8439a1ef589cf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zilap Nitro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30e0be58cf941bb4ebe4caac41b14cc3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
