@@ -11,6 +11,8 @@ TagManager:
   - button f6
   - button f4
   - button f3
+  - OTPBackground
+  - EnterGameUI
   layers:
   - Default
   - TransparentFX

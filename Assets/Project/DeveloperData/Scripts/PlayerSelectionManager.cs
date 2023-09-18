@@ -5,7 +5,9 @@ using UnityEngine.UI;
 using TMPro;
 
 public class PlayerSelectionManager : MonoBehaviour
+
 {
+    public TextMeshPro Playername;
     public static PlayerSelectionManager instance;
 
     public PlayerDataCollector femalePlayerData, malePlayerData;
@@ -22,12 +24,12 @@ public class PlayerSelectionManager : MonoBehaviour
     {
         if (isFemale)
         {
-            currPlayerData = femalePlayerData;
+           // currPlayerData = femalePlayerData;
             malePlayerData.player.SetActive(false);
         }
         else
         {
-            currPlayerData = malePlayerData;
+           // currPlayerData = malePlayerData;
             femalePlayerData.player.SetActive(false);
         }
 

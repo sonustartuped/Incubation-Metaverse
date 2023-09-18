@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0447596b1a67de49ba5720fda0bdabe, type: 3}
+  m_Name: Mr. John
+  m_EditorClassIdentifier: 
+  characterName: Mr. John
+  brain: workspaces/default-xtwjnwmtpgxmnjxtbdj4ya/characters/mr_john
+  avatar: {fileID: 0}
+  workspace: workspaces/default-xtwjnwmtpgxmnjxtbdj4ya
+  currentScene: workspaces/default-xtwjnwmtpgxmnjxtbdj4ya/characters/mr_john
+  ownerShip: 0
+  defaultThumbnail: {fileID: 2800000, guid: e0905138e6816cd45be0bca8dadd6a3a, type: 3}
+  index: 0
+  triggers: []
+  scenes:
+  - workspaces/default-xtwjnwmtpgxmnjxtbdj4ya/scenes/home
+  modelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/d5b12ce9-e377-4f2e-9597-d909b001fa99.glb
+  posUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/d5b12ce9-e377-4f2e-9597-d909b001fa99_posture.jpg
+  previewImgUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/d5b12ce9-e377-4f2e-9597-d909b001fa99_portrait.jpg
+  characterID: 9c894be2-f1b3-4b1e-afd8-64d1094ac1f8

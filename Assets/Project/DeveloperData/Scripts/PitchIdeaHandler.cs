@@ -5,11 +5,19 @@ using UnityEngine.UI;
 
 public class PitchIdeaHandler : MonoBehaviour
 {
+
+    public static PitchIdeaHandler instance;
+    int  Ipt;
     public Text iptCoinText;
     public GameObject pitchIdeaBtn, pitchResponsePanel, emptyWarning, pitchIdeaCamera;
 
     InputField pitchResponseInputField;
     int collectedIpt;
+
+    void Awake()
+    {
+        instance = this;
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -54,6 +62,8 @@ public class PitchIdeaHandler : MonoBehaviour
     public void AddIPTCoin(int amount)
     {
         collectedIpt += amount;
-        iptCoinText.text = "$" + collectedIpt;
+       
+       int iptAmount = collectedIpt;
+      //  iptCoinText.text = "$" + collectedIpt;
     }
 }

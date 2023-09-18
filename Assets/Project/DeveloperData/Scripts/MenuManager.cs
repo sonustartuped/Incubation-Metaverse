@@ -5,14 +5,20 @@ using UnityEngine.UI;
 
 public class MenuManager : MonoBehaviour
 {
+    public static MenuManager instance;
+
     public InputField nameInputField;
-    public GameObject enterNameParent, playUIParent;
+    public GameObject enterNameParent, playUIParent, EnterDetailsUI, OTPUIBackground;
     public GameObject mainMenuUIParent, activityUIParent;
     public Text welcomeNameText;
 
     [Header("Gender Selection")]
     public Toggle femaleToggle;
 
+    void Awake()
+    {
+        instance = this;
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -59,11 +65,14 @@ public class MenuManager : MonoBehaviour
         {
             SetNameToDB(nameInputField.text);
         }
-
-        enterNameParent.SetActive(false);
-        playUIParent.SetActive(true);
+      
     }
 
+
+   // public void Otp_Verify()
+   // {
+   //     OTPBackground.SetActive(false);
+   // }
     public void PlayGame()
     {
         playUIParent.SetActive(false);
